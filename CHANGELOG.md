@@ -1,0 +1,12 @@
+# Changelog
+
+## [1.1.0](https://github.com/alfraul14/my-first-npm/compare/v1.0.0...v1.1.0) (2025-06-05)
+
+
+### Features
+
+* add action release-please ([e24fffd](https://github.com/alfraul14/my-first-npm/commit/e24fffd98f31b2ce52a9aae1a88cb20f1c1976e4))
+* add action release-please-config.json ([03e6e7a](https://github.com/alfraul14/my-first-npm/commit/03e6e7ad0bcb8a2bc1012f06cac02bf9d70d7673))
+* add manifest.json for release-please ([78e668c](https://github.com/alfraul14/my-first-npm/commit/78e668c214b3a04ffe64acd5c53d9f099c228714))
+* change icon ([2fef733](https://github.com/alfraul14/my-first-npm/commit/2fef733c21b9f219454ad5f5b938879e5b62a3bf))
+* change icon for phoenix ([67d01a2](https://github.com/alfraul14/my-first-npm/commit/67d01a2cf1ad97b22c278973d9616276cff7e91d))
