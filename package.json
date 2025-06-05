@@ -1,0 +1,20 @@
+{
+  "name": "@alfraul14/my-first-npm",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "\"hello world just for learn\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfraul14/my-first-npm.git"
+  },
+  "author": "Alf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfraul14/my-first-npm/issues"
+  },
+  "homepage": "https://github.com/alfraul14/my-first-npm#readme"
+}
