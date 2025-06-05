@@ -1,6 +1,6 @@
 {
   "name": "@alfraul14/my-first-npm",
-  "version": "1.2.0",
+  "version": "1.1.1",
   "type": "module",
   "description": "\"hello world just for learn\"",
   "main": "index.js",

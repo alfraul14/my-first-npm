@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/alfraul14/my-first-npm/compare/v1.1.0...v1.1.1) (2025-06-05)
+
+
+### Bug Fixes
+
+* prevent racing of requersts ([d9a3f20](https://github.com/alfraul14/my-first-npm/commit/d9a3f20e706cd0c96c290178de3ee3ba6b1f34b6)), closes [#123](https://github.com/alfraul14/my-first-npm/issues/123)
+
 ## [1.1.0](https://github.com/alfraul14/my-first-npm/compare/v1.0.0...v1.1.0) (2025-06-05)
 
 
