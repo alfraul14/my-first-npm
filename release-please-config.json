@@ -4,7 +4,7 @@
       "changelog-path": "CHANGELOG.md",
       "release-type": "node",
       "pull-request-title-pattern": "chore: release ${version}",
-      "pull-request-header": "🐦‍🔥 Release bump",
+      "pull-request-header": "🐦🚁 Release bump",
       "bump-minor-pre-major": true,
       "bump-patch-for-minor-pre-major": false,
       "draft": false,
