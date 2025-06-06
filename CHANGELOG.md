@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/alfraul14/my-first-npm/compare/v1.1.1...v1.1.2) (2025-06-06)
+
+
+### Bug Fixes
+
+* package.json number ([00ecf9f](https://github.com/alfraul14/my-first-npm/commit/00ecf9f27a733d61eaaf5d7d7a211969109a5a32))
+
 ## [1.1.1](https://github.com/alfraul14/my-first-npm/compare/v1.1.0...v1.1.1) (2025-06-05)
 
 
