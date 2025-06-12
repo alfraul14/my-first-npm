@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/alfraul14/my-first-npm/compare/v1.1.2...v1.2.0) (2025-06-12)
+
+
+### Features
+
+* Update readme.md ([230fe3b](https://github.com/alfraul14/my-first-npm/commit/230fe3b537697b5ffd41d156379a3bb2895a5420))
+
 ## [1.1.2](https://github.com/alfraul14/my-first-npm/compare/v1.1.1...v1.1.2) (2025-06-06)
 
 
